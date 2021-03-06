@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Some of my favourite things:
+* Neil Gaiman
+* Satoshi Kon´s body of work
+* Swimming
