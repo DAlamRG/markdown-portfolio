@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Paprika poster](https://i1.sndcdn.com/artworks-000335208360-40s03i-t500x500.jpg)
